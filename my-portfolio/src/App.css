@@ -86,8 +86,8 @@ nav a {
 }
 
 .logo {
-  width: 20%;
-  height: 20%;
+  width: 250px;
+  height: 125px;
   float: left
 }
 
@@ -133,9 +133,11 @@ a {
 }
 
 .headshot {
-  width: 20%;
-  height: 20%;
+  margin-top: 50px;
+  width: 360px;
+  height: 500px;
   float: right;
+  border-radius: 50%;
 }
 
 .resume {
@@ -152,6 +154,7 @@ a {
   margin-left: auto;
   margin-right: auto;
 }
+
 .table-div {
   display: flex;
   align-items: center !important;
@@ -164,3 +167,19 @@ th, td {
 /* #skills {
   margin-top: 200px;
 } */
+.contact-icon {
+  color: #8ddbe0 !important;
+  width: 80px !important;
+  height: 100px !important;
+}
+
+.contact-stack {
+  justify-content: center;
+  display: flex;
+  margin-bottom: 50px;
+}
+
+.gif {
+  width: 50%;
+  height: 50%;
+}
