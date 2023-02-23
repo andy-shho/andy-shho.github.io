@@ -58,7 +58,7 @@ nav {
 nav li {
   display: inline-block;
   margin-left: 70px;
-  padding-top: 55px
+  padding-top: 40px;
 }
 
 nav a {
@@ -104,6 +104,7 @@ nav a {
   justify-content: center;
   flex-direction: column;
   width: 50%;
+  margin-left: 20px;
 }
 
 #personal-name {
@@ -134,8 +135,8 @@ a {
 
 .headshot {
   margin-top: 50px;
-  width: 360px;
-  height: 500px;
+  width: 400px;
+  height: 540px;
   float: right;
   border-radius: 50%;
 }
@@ -182,4 +183,9 @@ th, td {
 .gif {
   width: 50%;
   height: 50%;
+}
+
+#project-name {
+  color:#4B5043;
+  font-size: 30px;
 }

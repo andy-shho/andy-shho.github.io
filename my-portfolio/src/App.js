@@ -151,26 +151,32 @@ function App() {
       <br></br>
       <section id = "projects">
         <h1 id = "personal-name">Projects</h1>
-        <div>
-          <a href = "https://github.com/Blue-Ocean-Slytherin/Reading-Rainforest-FrontEnd">
-            <img src = "https://user-images.githubusercontent.com/85593147/195161074-67c2a670-1921-49d8-b39b-9b177d456358.gif" alt = "Reading Rainforest" className = "gif"></img>
-          </a>
-        </div>
-        <div>
-          <a href = "https://github.com/rfp2207Frodo/rfp2207-QA-API">
-            <img src = "https://camo.githubusercontent.com/f710e08d5e99fa06740d102f499ad5c80337099e5aa8a7442a75cfb1b0068d9f/687474703a2f2f672e7265636f726469742e636f2f587758375070364b744d2e676966" alt = "QA API" className = "gif"></img>
-          </a>
-        </div>
-        <div>
-          <a href = "https://github.com/FrontEndCapstoneSNO1/FEC">
-            <img src = "https://camo.githubusercontent.com/38b1cc4d6d134c26ef77a00de93b28e206b1d00fa06b1ea568afe4809d3c8ceb/687474703a2f2f672e7265636f726469742e636f2f366a774f6b6e583863662e676966" alt = "Sugar and Spice" className = "gif"></img>
-          </a>
-        </div>
-        <div>
-          <a href = "https://github.com/andy-shho/NBA-Team-Creation">
-            <img src = "https://camo.githubusercontent.com/f08f1c304eb4f7c54617613cdfd2b55e60db4fa35079ab451767f9699f5cbc69/687474703a2f2f672e7265636f726469742e636f2f67326644484d47676a422e676966" alt = "NBA Team Creation" className = "gif"></img>
-          </a>
-        </div>
+        <Stack direction = "column" spacing = {20}>
+          <div>
+            <a href = "https://github.com/Blue-Ocean-Slytherin/Reading-Rainforest-FrontEnd">
+              <img src = "https://user-images.githubusercontent.com/85593147/195161074-67c2a670-1921-49d8-b39b-9b177d456358.gif" alt = "Reading Rainforest" className = "gif"></img>
+            </a>
+            <h1 id = "project-name">Reading Rainforest</h1>
+          </div>
+          <div>
+            <a href = "https://github.com/rfp2207Frodo/rfp2207-QA-API">
+              <img src = "https://camo.githubusercontent.com/f710e08d5e99fa06740d102f499ad5c80337099e5aa8a7442a75cfb1b0068d9f/687474703a2f2f672e7265636f726469742e636f2f587758375070364b744d2e676966" alt = "QA API" className = "gif"></img>
+            </a>
+            <h1 id = "project-name">Q&A API</h1>
+          </div>
+          <div>
+            <a href = "https://github.com/FrontEndCapstoneSNO1/FEC">
+              <img src = "https://camo.githubusercontent.com/38b1cc4d6d134c26ef77a00de93b28e206b1d00fa06b1ea568afe4809d3c8ceb/687474703a2f2f672e7265636f726469742e636f2f366a774f6b6e583863662e676966" alt = "Sugar and Spice" className = "gif"></img>
+            </a>
+            <h1 id = "project-name">Sugar and Spice</h1>
+          </div>
+          <div>
+            <a href = "https://github.com/andy-shho/NBA-Team-Creation">
+              <img src = "https://camo.githubusercontent.com/f08f1c304eb4f7c54617613cdfd2b55e60db4fa35079ab451767f9699f5cbc69/687474703a2f2f672e7265636f726469742e636f2f67326644484d47676a422e676966" alt = "NBA Team Creation" className = "gif"></img>
+            </a>
+            <h1 id = "project-name">NBA Team Creation</h1>
+          </div>
+        </Stack>
       </section>
       <br></br>
       <br></br>
