@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.6f44f643.css",
-    "main.js": "/static/js/main.62f515c1.js",
+    "main.css": "/static/css/main.346b36b1.css",
+    "main.js": "/static/js/main.2887077e.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/headshot.jpg": "/static/media/headshot.bd2a20ac4c4841cf53a1.jpg",
     "static/media/Andy Ho Resume.pdf": "/static/media/Andy Ho Resume.a907a1f5572b9ebee14f.pdf",
     "static/media/portfolio.jpg": "/static/media/portfolio.b817f9cb3e95ae500a09.jpg",
     "index.html": "/index.html",
-    "main.6f44f643.css.map": "/static/css/main.6f44f643.css.map",
-    "main.62f515c1.js.map": "/static/js/main.62f515c1.js.map",
+    "main.346b36b1.css.map": "/static/css/main.346b36b1.css.map",
+    "main.2887077e.js.map": "/static/js/main.2887077e.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f44f643.css",
-    "static/js/main.62f515c1.js"
+    "static/css/main.346b36b1.css",
+    "static/js/main.2887077e.js"
   ]
 }
