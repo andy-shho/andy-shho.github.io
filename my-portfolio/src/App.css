@@ -126,7 +126,7 @@ nav a {
 
 .bio {
   font-family: 'Josefin Sans', sans-serif;
-  font-size: 20px;
+  font-size: 16px;
   color: #4B5043;
   text-align: center;
 }
@@ -147,8 +147,8 @@ a {
 
 .headshot {
   margin-top: 50px;
-  width: 440px;
-  height: 580px;
+  width: 425px;
+  height: 565px;
   float: right;
   border-radius: 50%;
 }
