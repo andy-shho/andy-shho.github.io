@@ -16,8 +16,8 @@ function App() {
   // var typewriter = new Typewriter()
   return (
     <div id="App">
-      <br id = "home-anchor"></br>
       <br></br>
+      <br id = "home-anchor"></br>
       <br></br>
       <br></br>
       <br></br>
