@@ -159,19 +159,19 @@ function App() {
           </div>
           <div>
             <a href = "https://github.com/rfp2207Frodo/rfp2207-QA-API">
-              <img src = "https://camo.githubusercontent.com/f710e08d5e99fa06740d102f499ad5c80337099e5aa8a7442a75cfb1b0068d9f/687474703a2f2f672e7265636f726469742e636f2f587758375070364b744d2e676966" alt = "QA API" className = "gif"></img>
+              <img src = "https://camo.githubusercontent.com/b63cc4f6480a2cbefa00e6bff4855c84903db8488f187bc5367fb3247a7c5e04/687474703a2f2f672e7265636f726469742e636f2f587758375070364b744d2e676966" alt = "QA API" className = "gif"></img>
             </a>
             <h1 id = "project-name">Q&A API</h1>
           </div>
           <div>
             <a href = "https://github.com/FrontEndCapstoneSNO1/FEC">
-              <img src = "https://camo.githubusercontent.com/38b1cc4d6d134c26ef77a00de93b28e206b1d00fa06b1ea568afe4809d3c8ceb/687474703a2f2f672e7265636f726469742e636f2f366a774f6b6e583863662e676966" alt = "Sugar and Spice" className = "gif"></img>
+              <img src = "https://camo.githubusercontent.com/e308ae2b388019da0355549156eca11c80f2434dc5816472668f16fa2f861b82/687474703a2f2f672e7265636f726469742e636f2f757330547746373451582e676966" alt = "Sugar and Spice" className = "gif"></img>
             </a>
             <h1 id = "project-name">Sugar and Spice</h1>
           </div>
           <div>
             <a href = "https://github.com/andy-shho/NBA-Team-Creation">
-              <img src = "https://camo.githubusercontent.com/f08f1c304eb4f7c54617613cdfd2b55e60db4fa35079ab451767f9699f5cbc69/687474703a2f2f672e7265636f726469742e636f2f67326644484d47676a422e676966" alt = "NBA Team Creation" className = "gif"></img>
+              <img src = "https://camo.githubusercontent.com/8fea0a466643ffda701c6a16df05b8aed0435f453a02b00591c5eb56cd3e53af/687474703a2f2f672e7265636f726469742e636f2f67326644484d47676a422e676966" alt = "NBA Team Creation" className = "gif"></img>
             </a>
             <h1 id = "project-name">NBA Team Creation</h1>
           </div>
