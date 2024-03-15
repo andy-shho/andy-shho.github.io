@@ -53,7 +53,7 @@ function App() {
             <br></br>
             <h2 className = "bio"> Prior to software engineering, I graduated magna cum laude from the University of California, Riverside with a B.S. in Biology. I initially planned to pursue a career in healthcare or biological research until my last year in college, where I took a few introductory Computer Science courses. I instantly became fascinated with the endless technologies available, captivated by the creation of full stack applications, and fell in love with the art of problem-solving.</h2>
           </div>
-          <a href = {resume} download = "Andy Ho Resume.pdf">
+          <a href = {resume} target="blank" download = "Andy Ho Resume.pdf">
             <Button variant = "contained" size = "Large" className = "resume"> Resume </Button>
           </a>
         </div>
@@ -152,25 +152,31 @@ function App() {
         <h1 id = "personal-name">Projects</h1>
         <Stack direction = "column" spacing = {20}>
           <div>
-            <a href = "https://github.com/Blue-Ocean-Slytherin/Reading-Rainforest-FrontEnd">
+            <a href = "https://github.com/Blue-Ocean-Slytherin/Reading-Rainforest-FrontEnd" target="_blank" rel="noreferrer">
               <img src = "https://user-images.githubusercontent.com/85593147/195161074-67c2a670-1921-49d8-b39b-9b177d456358.gif" alt = "Reading Rainforest" className = "gif"></img>
             </a>
             <h1 id = "project-name">Reading Rainforest</h1>
           </div>
           <div>
-            <a href = "https://github.com/rfp2207Frodo/rfp2207-QA-API">
+            <a href = "https://github.com/rfp2207Frodo/rfp2207-QA-API" target="_blank" rel="noreferrer">
               <img src = "https://camo.githubusercontent.com/b63cc4f6480a2cbefa00e6bff4855c84903db8488f187bc5367fb3247a7c5e04/687474703a2f2f672e7265636f726469742e636f2f587758375070364b744d2e676966" alt = "QA API" className = "gif"></img>
             </a>
             <h1 id = "project-name">Q&A API</h1>
           </div>
           <div>
-            <a href = "https://github.com/FrontEndCapstoneSNO1/FEC">
+            <a href = "https://github.com/andy-shho/Pathfinding-Visualizer" target="_blank" rel="noreferrer">
+              <img src = "https://camo.githubusercontent.com/5c34320db3691c9ee204d6db4f9ef77e3ca2c067718cf49ceed4648e87984834/687474703a2f2f672e7265636f726469742e636f2f7a34477772616b4132712e676966" alt = "Pathfinding Visualizer" className = "gif"></img>
+            </a>
+            <h1 id = "project-name">Pathfinding Visualizer</h1>
+          </div>
+          <div>
+            <a href = "https://github.com/FrontEndCapstoneSNO1/FEC" target="_blank" rel="noreferrer">
               <img src = "https://camo.githubusercontent.com/e308ae2b388019da0355549156eca11c80f2434dc5816472668f16fa2f861b82/687474703a2f2f672e7265636f726469742e636f2f757330547746373451582e676966" alt = "Sugar and Spice" className = "gif"></img>
             </a>
             <h1 id = "project-name">Sugar and Spice</h1>
           </div>
           <div>
-            <a href = "https://github.com/andy-shho/NBA-Team-Creation">
+            <a href = "https://github.com/andy-shho/NBA-Team-Creation" target="_blank" rel="noreferrer">
               <img src = "https://camo.githubusercontent.com/8fea0a466643ffda701c6a16df05b8aed0435f453a02b00591c5eb56cd3e53af/687474703a2f2f672e7265636f726469742e636f2f67326644484d47676a422e676966" alt = "NBA Team Creation" className = "gif"></img>
             </a>
             <h1 id = "project-name">NBA Team Creation</h1>
